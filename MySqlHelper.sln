@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlHelper", "MySqlHelper\MySqlHelper.csproj", "{A5BFAF73-24E3-41BE-9D14-93D736430957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlHelp", "MySqlHelp\MySqlHelp.csproj", "{C289917B-98E0-4B2D-A050-1019736CEDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BFAF73-24E3-41BE-9D14-93D736430957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BFAF73-24E3-41BE-9D14-93D736430957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BFAF73-24E3-41BE-9D14-93D736430957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BFAF73-24E3-41BE-9D14-93D736430957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C289917B-98E0-4B2D-A050-1019736CEDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C289917B-98E0-4B2D-A050-1019736CEDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C289917B-98E0-4B2D-A050-1019736CEDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C289917B-98E0-4B2D-A050-1019736CEDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6004FB31-B20E-40ED-BFF6-B6A8EE2B1591}
+	EndGlobalSection
+EndGlobal
